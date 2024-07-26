@@ -1,4 +1,5 @@
 # 2023 Solution Challenge: VoiceLinker team
+2023겨울에 진행한 구글 솔루션챌린지 프론트 레포입니다.
 
 A new Flutter project.
 
